@@ -1,7 +1,7 @@
 # Earthquake
 extracting earthquake data from Wikipedia using beautifulsoup and analysis
 
-## Disclaimer: This was a team-based excercise did at NSS. 
+### Disclaimer: This was a team-based excercise did at NSS. 
 
 ## Questions:
 - Nate Silver discusses the difficulty of predicting earthquakes in The Signal and the Noise, but are there factors that make an earthquake more likely?
