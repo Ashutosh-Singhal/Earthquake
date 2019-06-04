@@ -1,5 +1,4 @@
-# Earthquake
-extracting earthquake data from Wikipedia using beautifulsoup and analysis
+# Analysis of most deadly earthquakes
 
 ### Disclaimer: This was a team-based excercise done at NSS. 
 ### Team: 
