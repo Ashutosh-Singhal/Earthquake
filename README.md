@@ -1,7 +1,7 @@
 # Analysis of most deadly earthquakes (data question:3)
 
-### Disclaimer: This was a team-based excercise done at NSS. 
-### Team: 
+### This project was a team-based excercise at NSS. 
+### Team Members: 
 - Ashutosh Singhal
 - Racheal Abram
 - Bernes Karacay
